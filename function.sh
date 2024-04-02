@@ -1,0 +1,4 @@
+hai() {
+	echo "hello"
+}
+ hai
